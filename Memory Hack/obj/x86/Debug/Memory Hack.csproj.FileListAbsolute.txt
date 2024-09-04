@@ -1,0 +1,9 @@
+C:\Users\fchuprin\source\repos\Memory Hack\Memory Hack\bin\x86\Debug\Memory Hack.exe.config
+C:\Users\fchuprin\source\repos\Memory Hack\Memory Hack\bin\x86\Debug\Memory Hack.exe
+C:\Users\fchuprin\source\repos\Memory Hack\Memory Hack\bin\x86\Debug\Memory Hack.pdb
+C:\Users\fchuprin\source\repos\Memory Hack\Memory Hack\obj\x86\Debug\Memory_Hack.Form1.resources
+C:\Users\fchuprin\source\repos\Memory Hack\Memory Hack\obj\x86\Debug\Memory_Hack.Properties.Resources.resources
+C:\Users\fchuprin\source\repos\Memory Hack\Memory Hack\obj\x86\Debug\Memory Hack.csproj.GenerateResource.cache
+C:\Users\fchuprin\source\repos\Memory Hack\Memory Hack\obj\x86\Debug\Memory Hack.csproj.CoreCompileInputs.cache
+C:\Users\fchuprin\source\repos\Memory Hack\Memory Hack\obj\x86\Debug\Memory Hack.exe
+C:\Users\fchuprin\source\repos\Memory Hack\Memory Hack\obj\x86\Debug\Memory Hack.pdb
